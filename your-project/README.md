@@ -32,6 +32,7 @@ I have decided to program tictactoe because i have always enjoyed playing the ga
 
 ## Organization
 For organizing the different steps described in workflow i jused Trello.
+For the presentation i used google slides.
 
 My repositiory contains the following:
 1. READ ME.file --> Shows you how to play the game.
@@ -41,6 +42,5 @@ My repositiory contains the following:
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Repository](https://github.com/TimEisenmenger/Project-Week-1-Build-Your-Own-Game/tree/master/your-project)   
 [Trello](https://trello.com/b/pKODM4B6/project-1-bulding-tic-tac-toe-with-python)
